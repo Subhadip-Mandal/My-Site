@@ -39,12 +39,12 @@ a:hover{
 }
 .top-container{
     height: 665px;
-    background-image: url("Images/background.jpg");
+    background-image: url("background.jpg");
     padding-top: 100px;
 }
 .middle-container{
     background-color: #fbf0f0;
-    background-image: url("Images/background2.jpg");
+    background-image: url("background2.jpg");
     padding-top: 100px;
     padding-bottom: 10px;
 }
