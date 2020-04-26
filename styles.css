@@ -16,7 +16,7 @@ h2{
 h3{
     font-family: 'Montserrat', sans-serif;
     color: red;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
 }
 
 hr{
@@ -37,6 +37,10 @@ a{
 a:hover{
     color: snow;
 }
+p{
+    font-size: 1.1rem;
+}
+
 .top-container{
     height: 665px;
     background-image: url("background.jpg");
@@ -122,4 +126,5 @@ a:hover{
 }
 .copyright{
     color: rgb(223, 223, 223);
+    font-size: 0.8rem;
 }
