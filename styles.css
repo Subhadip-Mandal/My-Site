@@ -39,6 +39,7 @@ a:hover{
 }
 p{
     font-size: 1.1rem;
+    font-family: 'Merriweather', serif;
 }
 
 .top-container{
@@ -127,4 +128,5 @@ p{
 .copyright{
     color: rgb(223, 223, 223);
     font-size: 0.8rem;
+    font-family: 'Merriweather', serif;
 }
